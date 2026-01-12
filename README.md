@@ -35,7 +35,7 @@ The project leverages several Flutter-specific concepts to achieve its high-end 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/micko-smart-home.git](https://github.com/yourusername/micko-smart-home.git)
+    git clone [https://github.com/MKM909/micko-smart-home.git](https://github.com/MKM909/micko-smart-home.git)
     ```
 2.  **Install dependencies:**
     ```bash
