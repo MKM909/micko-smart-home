@@ -2,7 +2,7 @@
 
 A sleek, modern, and highly interactive Smart Home Management UI built with **Flutter**. This project demonstrates advanced UI/UX techniques including glassmorphism, custom physics-based animations, and a responsive grid layout.
 
-![Smart Home Demo](https://via.placeholder.com/800x400?text=Micko+Smart+Home+Dashboard+Demo)
+![Smart Home Demo](https://github.com/MKM909/micko-smart-home/blob/main/Micko%20Smart%20Home%20Demo.gif)
 
 ## ✨ Features
 
